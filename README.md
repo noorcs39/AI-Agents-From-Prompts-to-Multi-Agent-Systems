@@ -41,3 +41,21 @@ This module focuses on embedding context into AI agent workflows using APIs, con
 * Agentic Workflows (Parts 1–3)
 * Agents Autonomy
 ---
+
+# 🎯 Module 3: Orchestration
+
+This module explores multi-agent systems, inter-agent communication, adaptive intelligence, and emergent behavior.
+
+## 🧵 Topics Overview
+
+* Introduction to Multi-Agent Systems
+* Multi-Agent Systems
+* Connected AI Agents (Parallelization, Exponential Challenges)
+* Interdependent AI Agents
+* Adaptive AI Agents (Parts 1–3)
+* Optional: Diversity, Ability, Path-Dependence, Requisite Variety
+* Emergent AI Agents Systems
+
+---
+
+
