@@ -14,3 +14,27 @@ This repository contains structured notes, key takeaways, and practical insights
 > **Disclaimer:** All content is based on the course provided via Coursera. This repository is created for educational purposes only and does not claim ownership over the original material.
 
 ---
+
+# 🧩 Module 1: Prompt Engineering
+
+(Contains Tasks 1–8: Customizing, Frameworks, Role-Based, Chain, Meta, Receiver, Style, Reasoning Prompting)
+
+[See module1\_prompt\_engineering.md →](module1_prompt_engineering.md)
+
+---
+
+# 🧠 Module 2: Contextualization
+
+This module focuses on embedding context into AI agent workflows using APIs, context windows, Retrieval-Augmented Generation (RAGs), autonomy, and structured workflows.
+
+## 🔄 Topics Overview
+
+* AI Agent Workflows
+* Systematic Review of AI Agents
+* Agentic Function Calls (API, Context Windows, RAGs, Search)
+* Interactive Lab: Function Call Power
+* Building Effective Agents
+* Algorithms and Workflows
+* Agentic Workflows (Parts 1–3)
+* Agents Autonomy
+---
