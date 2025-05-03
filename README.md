@@ -26,7 +26,7 @@ This repository contains structured notes, key takeaways, and practical insights
 
 ---
 
-# 🧠 Module 2: Contextualization
+# 🧠 Module 2: Contextualization: Agents
 
 This module focuses on embedding context into AI agent workflows using APIs, context windows, Retrieval-Augmented Generation (RAGs), autonomy, and structured workflows.
 
@@ -42,7 +42,7 @@ This module focuses on embedding context into AI agent workflows using APIs, con
 * Agents Autonomy
 ---
 
-# 🎯 Module 3: Orchestration
+# 🎯 Module 3: Orchestration: Multi Agents
 
 This module explores multi-agent systems, inter-agent communication, adaptive intelligence, and emergent behavior.
 
