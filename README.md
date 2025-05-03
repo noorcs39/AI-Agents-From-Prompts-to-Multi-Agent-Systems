@@ -1,8 +1,11 @@
 # AI Agents: From Prompts to Multi-Agent Systems
 
 **Offered by:** University of California, Davis via Coursera
+
 **Learner/Practitioner:** Noor Uddin ([noor.cs2@yahoo.com](mailto:noor.cs2@yahoo.com))
+
 **License:** © 2025 Coursera & University of California, Davis
+
 **Purpose:** Personal learning notes and summaries compiled by Noor Uddin
 
 ---
